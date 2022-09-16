@@ -1,1 +1,1 @@
-deactivate
+.ch3venv\Scripts\deactivate
